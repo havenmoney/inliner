@@ -1,5 +1,6 @@
 {
-  "name": "inliner",
+  "name": "havenmoney-inliner",
+  "version": "1.0.1",
   "description": "Utility to inline images, CSS and JavaScript for a web page - useful for mobile sites",
   "homepage": "http://github.com/remy/inliner",
   "main": "lib/index.js",
@@ -54,7 +55,7 @@
   },
   "license": "MIT",
   "bin": {
-    "inliner": "cli/index.js"
+    "havenmoney-inliner": "cli/index.js"
   },
   "devDependencies": {
     "ghooks": "^1.1.1",
